@@ -1,0 +1,19 @@
+# macOS metadata
+.DS_Store
+._*
+.Trashes
+
+# MATLAB temporary & build files
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.log
+slprj/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Ignore raw dataset
+data/Four-Channel Vibration Dataset for Cross-Speed Rot/
